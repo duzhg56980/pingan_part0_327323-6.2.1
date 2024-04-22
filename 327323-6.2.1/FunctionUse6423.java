@@ -1,0 +1,7 @@
+import com.ctc.wstx.shaded.msv_core.datatype.xsd.datetime.Util;
+public class FunctionUse6423 {
+public void funcUse() {
+Util util = new Util();
+util.objCompare(null,null);
+}
+}

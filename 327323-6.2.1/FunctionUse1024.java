@@ -1,0 +1,7 @@
+import com.ctc.wstx.io.BufferRecycler;
+public class FunctionUse1024 {
+public void funcUse() {
+BufferRecycler bufferrecycler = new BufferRecycler();
+bufferrecycler.returnSmallCBuffer(null);
+}
+}

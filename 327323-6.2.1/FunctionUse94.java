@@ -1,0 +1,7 @@
+import com.ctc.wstx.api.ReaderConfig;
+public class FunctionUse94 {
+public void funcUse() {
+ReaderConfig readerconfig = new ReaderConfig();
+readerconfig.getMaxEntityDepth();
+}
+}
